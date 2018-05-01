@@ -2,7 +2,6 @@
 >A design pattern is a general, reusable solution to a commonly occurring problem
 
 
-
 I practice  in various scripts,languages what I know , 
 Just for Learning purpose. 
 
