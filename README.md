@@ -1,7 +1,7 @@
 # Design Patterns 
 >A design pattern is a general, reusable solution to a commonly occurring problem
 
-####It's independ from Programming Languages used. I will use php, javascript , may be python later. 
+
 
 I practice  in various scripts,languages what I know , 
 Just for Learning purpose. 
