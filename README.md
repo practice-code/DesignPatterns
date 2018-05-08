@@ -14,4 +14,4 @@ Inspired by Gang of four design patterns (GOF)
 - **Problem:** What are we trying to solve?
 
 - **Solution:** How does using this pattern solve our proposed problem?
-Implementation: What does the implementation look like?
+Implementation: What does the implementation look like?  
