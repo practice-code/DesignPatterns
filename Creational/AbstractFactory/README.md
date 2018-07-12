@@ -1,3 +1,4 @@
+*****Sets of methods to make various objects.*****
 >Creates an instance of several families of classes.
 >A factory of factories; a factory that groups the individual but related/dependent factories together without specifying their concrete classes.
 
