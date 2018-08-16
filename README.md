@@ -23,10 +23,4 @@ How it can be implements in programming language.
 ![Table Periodic for Design Patterns](periodic_table.png)
 - **Examples:(`USE CASE`)** 
 
-- **Context:** Where/under what circumstances is the pattern used?
-
-- **Problem:** What are we trying to solve?
-
-- **Solution:** How does using this pattern solve our proposed problem?
-Implementation: What does the implementation look like?  
 
