@@ -21,6 +21,7 @@ Implementation: What does the implementation look like?
 How it can be implements in programming language.
 
 ![Table Periodic for Design Patterns](periodic_table.png)
+![Map for Design Patterns](map.jpg)
 - **Examples:(`USE CASE`)** 
 
 
