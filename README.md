@@ -9,6 +9,7 @@ Inspired by Gang of four design patterns (GOF)
 
 >Every folder contain `README.md` file to explain in following manner 
 
+<<<<<<< HEAD
 - **Context:(`WHEN TO USE?`)** Where/under what circumstances is the pattern used? 
 
 - **Problem:(`WHY USE ?`)** What are we trying to solve?
@@ -21,3 +22,11 @@ How it can be implements in programming language.
 
 ![Table Periodic for Design Patterns](periodic_table.png)
 - **Examples:(`USE CASE`)** 
+=======
+- **Context:** Where/under what circumstances is the pattern used?
+
+- **Problem:** What are we trying to solve?
+
+- **Solution:** How does using this pattern solve our proposed problem?
+Implementation: What does the implementation look like?  
+>>>>>>> d39eb1c0a7a2ce0b8af2da02c57d857733039fbe
