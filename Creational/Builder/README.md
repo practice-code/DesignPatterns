@@ -1,13 +1,15 @@
->Separates object construction from its representation
+#Defination
 
->how a composite object gets created
+```Separates object construction from its representation```
 
->parse a complex representation, create one of several targets
+```how a composite object gets created```
+
+```parse a complex representation, create one of several targets```
 
 
 
 ##**Context:(`WHEN TO USE?`)** 
-Builder Pattern is used when:
+__Builder Pattern is used when:__
 
 1.the creation algorithm of a complex object is independent from the parts that actually compose the object.
 
@@ -26,15 +28,20 @@ Implementation: What does the implementation look like?
 
 ##**Implementation:(`SYNTAX`)** 
 
- How it's implmentation:
+
 ![Builder Implementation](builder-pattern-implementation.png)
 
 
 
 ##**Examples:(`USE CASE`)** 
-![Builder Text Converter](builder-pattern-example.png)
+
 
 ##Example 1 - Vehicle Manufacturer.
+
+
+![Builder Text Converter](builder-pattern-vehicle-example.gif)
+
+
 ~~~~
 Let us take the case of a vehicle manufacturer that, from a set of parts, can build a car, a bicycle, a motorcycle or a scooter. In this case the Builder will become the VehicleBuilder. It specifies the interface for building any of the vehicles in the list above, using the same set of parts and a different set of rules for every type of type of vehicle. The ConcreteBuilders will be the builders attached to each of the objects that are being under construction. The Product is of course the vehicle that is being constructed and the Director is the manufacturer and its shop.
 ~~~~
@@ -62,9 +69,13 @@ specifies an abstract interface for creating parts of a Product object
 - includes classes that define the constituent parts, including interfaces for assembling the parts into the final result
 ~~~~
 
-###[PHP Example Code](/phpcode) 
-###[Python Example Code](/javascriptcode)
-###[Javascript Example Code](/javascriptcode) 
+
+###[PHP Example Code](/) 
+
+###[Python Example Code](/)
+
+###[Javascript Example Code](/) 
+
 
 Example 2 - Students Exams.
 ~~~~
