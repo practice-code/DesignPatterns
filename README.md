@@ -2,7 +2,7 @@
 >A design pattern is a general, reusable solution to a commonly occurring problem
 
 
-I practice Design Patterns in PHP, Python, Javascript
+I practice Design Patterns in PHP
 
 Inspired by Gang of four design patterns (GOF)
 
@@ -24,6 +24,8 @@ How it can be implements in programming language.
 - **Examples:(`USE CASE`)** 
 
 ![Table Periodic for Design Patterns](periodic_table.png)
+
+
 
 
 
