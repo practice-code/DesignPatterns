@@ -72,10 +72,6 @@ specifies an abstract interface for creating parts of a Product object
 
 ###[PHP Example Code](/) 
 
-###[Python Example Code](/)
-
-###[Javascript Example Code](/) 
-
 
 Example 2 - Students Exams.
 ~~~~
