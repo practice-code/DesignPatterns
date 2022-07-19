@@ -1,4 +1,4 @@
-#Defination
+## Definition
 
 ```Separates object construction from its representation```
 
@@ -8,7 +8,7 @@
 
 
 
-##**Context:(`WHEN TO USE?`)** 
+## **Context:(`WHEN TO USE?`)** 
 __Builder Pattern is used when:__
 
 1.the creation algorithm of a complex object is independent from the parts that actually compose the object.
@@ -17,26 +17,26 @@ __Builder Pattern is used when:__
 
 3.This template is used when we want to encapsulate the creation of a complex object.
 
-##**Problem:(`WHY USE ?`)** 
+## **Problem:(`WHY USE ?`)** 
 
 What are we trying to solve?
 
- ##**Solution:(`HOW TO ?`)** 
+ ## **Solution:(`HOW TO ?`)** 
 
 How does using this pattern solve our proposed problem?
 Implementation: What does the implementation look like?  
 
-##**Implementation:(`SYNTAX`)** 
+## **Implementation:(`SYNTAX`)** 
 
 
 ![Builder Implementation](builder-pattern-implementation.png)
 
 
 
-##**Examples:(`USE CASE`)** 
+## **Examples:(`USE CASE`)** 
 
 
-##Example 1 - Vehicle Manufacturer.
+## Example 1 - Vehicle Manufacturer.
 
 
 ![Builder Text Converter](builder-pattern-vehicle-example.gif)
@@ -45,7 +45,7 @@ Implementation: What does the implementation look like?
 ~~~~
 Let us take the case of a vehicle manufacturer that, from a set of parts, can build a car, a bicycle, a motorcycle or a scooter. In this case the Builder will become the VehicleBuilder. It specifies the interface for building any of the vehicles in the list above, using the same set of parts and a different set of rules for every type of type of vehicle. The ConcreteBuilders will be the builders attached to each of the objects that are being under construction. The Product is of course the vehicle that is being constructed and the Director is the manufacturer and its shop.
 ~~~~
-  #####The classes and objects participating in this pattern are:
+  ##### The classes and objects participating in this pattern are:
 
 - **Builder**  (VehicleBuilder)
 ~~~~
@@ -70,7 +70,7 @@ specifies an abstract interface for creating parts of a Product object
 ~~~~
 
 
-###[PHP Example Code](/) 
+### [PHP Example Code](/) 
 
 
 Example 2 - Students Exams.
